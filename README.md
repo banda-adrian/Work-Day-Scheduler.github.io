@@ -8,4 +8,4 @@ Green = Future <br>
 
 Link: https://banda-adrian.github.io/Work-Day-Scheduler.github.io/.
 
-<img src = "#" width="700" heigth="250">
+<!-- <img src = "#" width="700" heigth="250"> -->
